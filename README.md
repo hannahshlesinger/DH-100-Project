@@ -1,5 +1,6 @@
 # DH-100-Project
 Repo for my Digital Humanities Theory and Methods Class Project
+
 I am currently working on analyzing the poetry of Rupi Kaur through text mining and visual modeeling
 It's a work in progress! 
 
