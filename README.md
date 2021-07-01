@@ -1,14 +1,22 @@
-# DH-100-Project
-Repo for my Digital Humanities Theory and Methods Class Project
+# DH-100-Project: An Analysis of Rupi Kaur's Poetry
 
-I am currently working on analyzing the poetry of Rupi Kaur and other contemporary poets through text mining and visual modeling
-It's a work in progress! 
+![rupi-header](https://user-images.githubusercontent.com/70735305/124089522-d13d9680-da08-11eb-96f1-45a5677a1de1.jpg)
+> This is a repository for my final project for Digital Humanities 100: Theory & Methods The Digital Humanities taught by Dr Adam Anderson as a part of UC Berkeley's Summer Digital Humanities Minor 2021
+
+# Project Abstract
+> In 2015, [The Washington Post](http://www.washingtonpost.com/news/wonk/wp/2015/04/24/poetry-is-going-extinct-government-data-show/) put out an article claiming poetry is going extinct based on a dramatic decline of poetry sales in the United States. By 2016, Rupi Kaur, author of poetry collection *Milk and Honey*, is on the New York Times bestseller list. By [2018](https://www.npr.org/2018/06/08/618386432/poetry-is-making-a-big-comeback-in-the-u-s-survey-results-reveal), poetry readership in the US is higher than it’s been in nearly fifteen years. While there are many reasons for the general increase in interest in poetry, Rupi Kaur has been identified as the one of the first seminal [“insta-poets.”](https://www.theatlantic.com/technology/archive/2018/10/rupi-kaur-instagram-poet-entrepreneur/572746/) This project seeks to analyze Kaur’s work and identify unique features and themes as well to analyze the reader response to her work online. To do so, I used NLP and NLTK to break down the parts of speech and look at word frequencies.  I also used Latent Dirichlet Allocation (LDA) topic modeling to identify common themes. Both methods revealed that Kaur’s work places a lot of emphasis on the body, womanhood, love and desire.  I was also curious about how positive or negative Kaur’s work scored. I used VADER sentiment analysis and found that Kaur’s work is fairly positive, except for her most recent book, *Homebody*, which scored relatively negative compared to her first works. I ran similar processes to a corpus of [Goodreads](https://www.goodreads.com/) user reviews of her poetry I scraped using a [goodreads scraper](https://github.com/maria-antoniak/goodreads-scraper) deveopled by [Maria Antoniak](https://github.com/maria-antoniak) and [Melanie Walsh.](https://github.com/melaniewalsh) I found that on average, most users rated her work at around a 3-4 star rating, indicating an overall positive user response . However, despite her overall high user rating, a signficant amount of users 'liked' negative reviews and low ratings, revealing that user rating averages must be taken with a grain of salt and should be placed in context with the number of likes they are receiving to get a more complete understanding of Goodreads user response to an author's work. *Homebody* was the outlier again since the ranks for her third collection were significantly more positive than her first two works. I found it odd that her relatively ‘most negative’ work was reviewed the most positively. My theory is that her third collection has not reached a far enough public to average out the sentiment. Instead, I theorize that the readers who pick up Homebody are already fans and follower of Rupi Kaur’s work whereas her first collection has reached a far wider general audiences. However, these are just theories. To further investigate these questions and create a more contextual analysis, I would need to compare Rupi  Kaur to other contemporary poets and pull reader responses from other sites like Instagram, Youtube, and Twitter. 
+
+# Jupyter Notebooks 
+> In this repository, you will find two Jupyter notebooks in the [python folder](https://github.com/hannahshlesinger/DH-100-Project/tree/main/python). The first is a notebook detailing how I scraped the reviews from Goodreads. Feel free to run it or visit the [goodreads scraper repo](https://github.com/maria-antoniak/goodreads-scraper) to try it yourself. If you do choose to run the goodreads scraper, I recommend installing and running the scraper on a Firefox browser for best results. 
+>The second notebook contains my complete code, including both my text analysis of Rupi Kaur's poetry as well as analysis of the scraped Goodreads reviews.
 
 ## Storyboard
-Here is a [link](https://lucid.app/lucidchart/invitations/accept/inv_5d6caaa7-b1e3-4db7-b5c7-49f76836e200) to my in-progress storyboard on lucidcharts. 
+> This project saw many changes and developments. To see how my data story evolved over time, visit the [storyboard folder](https://github.com/hannahshlesinger/DH-100-Project/tree/main/storyboard). The final version of my storyboard developed into my project's final poster, which you can view below:
 
-To see my various storyboard drafts, visit the storyboard folder. 
+[insert final poster]
 
-## Jupytr Notebook
-My Juptyr Notebook which contains all the code for my project can be found under the 'python' folder.
+# Resources & Final Notes
+
+
+
 
