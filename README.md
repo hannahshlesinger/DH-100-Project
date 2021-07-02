@@ -13,7 +13,8 @@
 ## Storyboard
 > This project saw many changes and developments. To see how my data story evolved over time, visit the [storyboard folder](https://github.com/hannahshlesinger/DH-100-Project/tree/main/storyboard). The final version of my storyboard developed into my project's final poster, which you can also find in my storyboard folder.
 
-# Resources & Final Notes
+# Video Tutorial 
+Here is a [link](https://drive.google.com/drive/folders/1Pa_eBw0qiax0DsZ3Sh41PhN9U9Z_QWzp?usp=sharing) to a video tutorial of my slideshow.
 
 
 
