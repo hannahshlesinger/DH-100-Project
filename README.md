@@ -11,9 +11,7 @@
 >The second notebook contains my complete code, including both my text analysis of Rupi Kaur's poetry as well as analysis of the scraped Goodreads reviews.
 
 ## Storyboard
-> This project saw many changes and developments. To see how my data story evolved over time, visit the [storyboard folder](https://github.com/hannahshlesinger/DH-100-Project/tree/main/storyboard). The final version of my storyboard developed into my project's final poster, which you can view below:
-
-[insert final poster]
+> This project saw many changes and developments. To see how my data story evolved over time, visit the [storyboard folder](https://github.com/hannahshlesinger/DH-100-Project/tree/main/storyboard). The final version of my storyboard developed into my project's final poster, which you can also find in my storyboard folder.
 
 # Resources & Final Notes
 
